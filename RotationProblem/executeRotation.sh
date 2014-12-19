@@ -1,0 +1,1 @@
+java -jar ./build/libs/RotationProblem-1.0.jar $1 $2
